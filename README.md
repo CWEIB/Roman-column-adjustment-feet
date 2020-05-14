@@ -5,7 +5,7 @@
 2、调节脚的螺丝孔为M4 螺母槽为M4  
 3、打印时，有必要可添加支撑，填充为20%  
 4、作者博客：www.cweib.top  
-5、邮箱：ccwebi@gmail.com  
+5、电子邮箱：ccwebi@gmail.com  
 
 2020/05/15 Rome Adjustable Foot STL File
 1. BOM table has accessories information, you can buy accessories such as screws and nuts by Taobao.
