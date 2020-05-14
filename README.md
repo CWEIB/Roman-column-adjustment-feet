@@ -1,4 +1,5 @@
 # Roman-column-adjustment-feet
+![image](https://github.com/CWEIB/Roman-column-adjustment-feet/blob/master/Images/Positive%20effect.jpg)
 
 2020/05/15 罗马调节脚STL文件  
 1、BOM表有配件信息，可以自行淘宝购买螺丝螺母等配件  
